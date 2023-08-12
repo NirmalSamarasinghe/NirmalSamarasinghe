@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nipun Nirmal Samarasinghe</h1>
 <h3 align="center">A passionate undergraduated student Software Engineer from Sri Lanka</h3>
-<img src="https://www.pinterest.com/pin/311381761734186207/">
+<img src="[https://www.pinterest.com/pin/311381761734186207/](https://fariza-rafa.medium.com/10-web-development-fundamentals-you-should-know-e0d47c23a850)">
 
 - 🔭 I’m currently working on [My PortFolio](https://github.com/Nipun78/MyPortfolio.git)
 
