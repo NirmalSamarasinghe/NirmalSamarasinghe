@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nipun Nirmal Samarasinghe</h1>
 <h3 align="center">A passionate undergraduated student Software Engineer from Sri Lanka</h3>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ftechezier.com%2Fwp-content%2Fuploads%2F2022%2F08%2Fweb-development-1.gif&tbnid=lshKi2zUwK5xOM&vet=12ahUKEwiUlOb-yNeAAxUq0aACHWp_DhYQMygIegUIARCEAg..i&imgrefurl=https%3A%2F%2Ftechezier.com%2Fweb-development-services%2F&docid=iUgMG2kIzJMhyM&w=691&h=490&q=web%20developer%20gif&hl=en&ved=2ahUKEwiUlOb-yNeAAxUq0aACHWp_DhYQMygIegUIARCEAg">
+<img src="https://www.pinterest.com/pin/311381761734186207/">
 
 - 🔭 I’m currently working on [My PortFolio](https://github.com/Nipun78/MyPortfolio.git)
 
