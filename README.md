@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipun Nirmal Samarasinghe</h1>
 <h3 align="center">A passionate undergraduated student Software Engineer from Sri Lanka</h3>
-<br>
 <img src= "https://user-images.githubusercontent.com/87605149/250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2.gif">
 
 - 🔭 I’m currently working on [My PortFolio](https://github.com/Nipun78/MyPortfolio.git)
