@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nipun Nirmal Samarasinghe</h1>
 <h3 align="center">A passionate undergraduated student Software Engineer from Sri Lanka</h3>
 <br>
-<img src= "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img src= "https://user-images.githubusercontent.com/87605149/250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2.gif">
 
 - 🔭 I’m currently working on [My PortFolio](https://github.com/Nipun78/MyPortfolio.git)
 
