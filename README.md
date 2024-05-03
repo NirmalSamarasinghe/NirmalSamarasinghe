@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nirmal Samarasinghe</h1>
+
 <h3 align="center">A passionate undergraduate student Software Engineer from Sri Lanka</h3>
+
 <img src="https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NirmalSamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="NirmalSamarasinghe" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Nipun78/MyPortfolio.git)
-
-- 🌱 I’m currently learning **Java,MySql, JS,HTML and CSS.**
+- 🌱 I’m currently learning **Java, MySql, JS, HTML and CSS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
