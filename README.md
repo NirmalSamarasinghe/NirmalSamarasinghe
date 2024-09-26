@@ -2,7 +2,6 @@
 
 <h3 align="center">A passionate undergraduate student Software Engineer from Sri Lanka</h3>
 
-<img src="https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
 [![](https://visitcount.itsvg.in/api?id=nirmalSamarasinghe&icon=5&color=12)](https://visitcount.itsvg.in)
 
